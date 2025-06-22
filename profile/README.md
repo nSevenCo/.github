@@ -1,6 +1,6 @@
 <div align="center">
 
-![nSeven Logo](nSeven-Logo-readme.png)
+<img src="nSeven-Logo-readme.png" alt="nSeven Logo" width="500">
 
 **Monitoramento regulatório inteligente para empresas que valorizam conformidade e eficiência.**
 </div>
